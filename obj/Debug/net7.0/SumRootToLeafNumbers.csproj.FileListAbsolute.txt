@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\bin\Debug\net7.0\SumRootToLeafNumbers.exe
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\bin\Debug\net7.0\SumRootToLeafNumbers.deps.json
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\bin\Debug\net7.0\SumRootToLeafNumbers.runtimeconfig.json
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\bin\Debug\net7.0\SumRootToLeafNumbers.dll
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\bin\Debug\net7.0\SumRootToLeafNumbers.pdb
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.dll
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\refint\SumRootToLeafNumbers.dll
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.pdb
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\SumRootToLeafNumbers.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\sum root to leaf numbers\SumRootToLeafNumbers\obj\Debug\net7.0\ref\SumRootToLeafNumbers.dll
